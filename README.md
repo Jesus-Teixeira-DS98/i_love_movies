@@ -1,2 +1,8 @@
-# i_love_movies
-Fluxo de ETL para solucionar o problema de negócio da I Love Movies.
+# I Love Movies
+<b>AVISO:</b> Todos os problemas e premissas contextualizados no projeto são fictícios. Seu único objetivo é dar sentido para o desenvolvimento da solução.<br><br>
+
+<p align='center'>
+    <img src = 'img.png'>
+</p>
+<br>
+
